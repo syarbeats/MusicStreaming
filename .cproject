@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?fileVersion 4.0.0?>
+
+<cproject>
+<storageModule buildFromInf="true" buildingTestComps="true" cleanLevel="0" concurrentBuildJobs="4" defaultMMPChangedAction="0" infBuildComponents="" infFileLocation="bld.inf" macrosFile="" makeEngineToUse="make" manageDependencies="true" moduleId="com.nokia.carbide.cdt.builder.carbideCPPBuilder" overrideMakeEngine="false" overrideWorkspaceSettings="false" promptForMMPChangedAction="true" useConcurrentBuilding="true" useDebugMode="false" useIncrementalBuilder="false" useKeepGoing="false" useMMPMacros="true"/>
+<storageModule moduleId="org.eclipse.cdt.core.settings">
+<cconfiguration id="Emulator Debug (WINSCW) [S60_5th_Edition_SDK_v1.0]">
+<storageModule buildSystemId="com.nokia.carbide.cdt.builder.CarbideConfigurationDataProvider" id="Emulator Debug (WINSCW) [S60_5th_Edition_SDK_v1.0]" moduleId="org.eclipse.cdt.core.settings" name="Emulator Debug (WINSCW) [S60_5th_Edition_SDK_v1.0]">
+<externalSettings/>
+<extensions>
+<extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="com.nokia.cdt.debug.cw.symbian.SymbianE32" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MakeDefErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.SBSv2ErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MWLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MWCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.CarbideMakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.RCOMPErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MakmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+</extensions>
+</storageModule>
+<storageModule moduleId="CarbideConfigurationDataProvider">
+<ENV_VAR_DATA_ID/>
+<ARGUMENTS_DATA_ID ABLDFREEZEARGSSTORAGE="-r"/>
+<ROM_BUILDER_DATA_ID ROMBUILDWORKINGDIRECTORYSTORAGE="C:\"/>
+</storageModule>
+<storageModule filesCache="C:\QtMobility\examples\MusicsStreaming\MusicsStreaming_0xED758BFB.mmp;C:\QtMobility\examples\MusicsStreaming\bld.inf;" includesCache="C:/QT/4.6.2/include/QtCore;C:/QT/4.6.2/include/QtCore/tmp;C:/QT/4.6.2/include/QtNetwork;C:/QT/4.6.2/include/QtNetwork/tmp;C:/QT/4.6.2/include/QtGui;C:/QT/4.6.2/include/QtGui/tmp;C:/QT/4.6.2/include/QtXml;C:/QT/4.6.2/include/QtXml/tmp;C:/QT/4.6.2/include/phonon;C:/QT/4.6.2/include/phonon/tmp;C:/QT/4.6.2/include;C:/QT/4.6.2/include/tmp;C:/QtMobility/examples/MusicsStreaming;C:/QtMobility/examples/MusicsStreaming/tmp;C:/QT/4.6.2/mkspecs/common/symbian;C:/QT/4.6.2/mkspecs/common/symbian/tmp;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis/sys;C:/QtMobility/src/multimedia;C:/QtMobility/src/multimedia/tmp;C:/QtMobility/src/systeminfo;C:/QtMobility/src/systeminfo/tmp;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/middleware;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/domain/middleware;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/domain/middleware/loc;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis/stlport;C:/QT/4.6.2/include/phonon_compat;C:/QT/4.6.2/include/phonon_compat/tmp;" macrosCache="__EXE__;__SYMBIAN32__;__SUPPORT_CPP_EXCEPTIONS__;QT_SOFTKEYS_ENABLED;QT_KEYPAD_NAVIGATION;UNICODE;QT_NETWORK_LIB;QT_USE_MATH_H_FLOATS;__CW32__;QT_XML_LIB;QT_PHONON_LIB;__S60_50__;__WINSCW__;QT_GUI_LIB;_UNICODE;__S60_3X__;__S60_5X__;_DEBUG;__SERIES60_3X__;__WINS__;QT_CORE_LIB;" moduleId="configDataCache" sourcesCache="" timestampCache="1293156991109" useMmpMacrosCache="true"/>
+<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+<storageModule moduleId="org.eclipse.cdt.core.language.mapping"/>
+</cconfiguration>
+<cconfiguration id="Phone Debug (GCCE) [S60_5th_Edition_SDK_v1.0]">
+<storageModule buildSystemId="com.nokia.carbide.cdt.builder.CarbideConfigurationDataProvider" id="Phone Debug (GCCE) [S60_5th_Edition_SDK_v1.0]" moduleId="org.eclipse.cdt.core.settings" name="Phone Debug (GCCE) [S60_5th_Edition_SDK_v1.0]">
+<externalSettings/>
+<extensions>
+<extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="com.nokia.cdt.debug.cw.symbian.SymbianE32" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MakeDefErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.SBSv2ErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.GCCEErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.CarbideMakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.RCOMPErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.Elf2E32ErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MakmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+</extensions>
+</storageModule>
+<storageModule moduleId="CarbideConfigurationDataProvider">
+<ENV_VAR_DATA_ID/>
+<ARGUMENTS_DATA_ID ABLDFREEZEARGSSTORAGE="-r"/>
+<ROM_BUILDER_DATA_ID ROMBUILDWORKINGDIRECTORYSTORAGE="C:\"/>
+</storageModule>
+<storageModule filesCache="C:\QtMobility\examples\MusicsStreaming\MusicsStreaming_0xED758BFB.mmp;C:\QtMobility\examples\MusicsStreaming\bld.inf;" includesCache="C:/QT/4.6.2/include/QtCore;C:/QT/4.6.2/include/QtCore/tmp;C:/QT/4.6.2/include/QtNetwork;C:/QT/4.6.2/include/QtNetwork/tmp;C:/QT/4.6.2/include/QtGui;C:/QT/4.6.2/include/QtGui/tmp;C:/QT/4.6.2/include/QtXml;C:/QT/4.6.2/include/QtXml/tmp;C:/QT/4.6.2/include/phonon;C:/QT/4.6.2/include/phonon/tmp;C:/QT/4.6.2/include;C:/QT/4.6.2/include/tmp;C:/QtMobility/examples/MusicsStreaming;C:/QtMobility/examples/MusicsStreaming/tmp;C:/QT/4.6.2/mkspecs/common/symbian;C:/QT/4.6.2/mkspecs/common/symbian/tmp;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis/sys;C:/QtMobility/src/multimedia;C:/QtMobility/src/multimedia/tmp;C:/QtMobility/src/systeminfo;C:/QtMobility/src/systeminfo/tmp;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/middleware;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/domain/middleware;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/domain/middleware/loc;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis/stlport;C:/QT/4.6.2/include/phonon_compat;C:/QT/4.6.2/include/phonon_compat/tmp;" macrosCache="__GENERIC_MARM__;__EXE__;__SYMBIAN32__;__SUPPORT_CPP_EXCEPTIONS__;__EPOC32__;QT_SOFTKEYS_ENABLED;__EABI__;QT_KEYPAD_NAVIGATION;UNICODE;QT_NETWORK_LIB;__GCCE__;QT_USE_MATH_H_FLOATS;__MARM__;QT_XML_LIB;QT_PHONON_LIB;__S60_50__;QT_GUI_LIB;_UNICODE;__S60_3X__;__S60_5X__;_DEBUG;__SERIES60_3X__;__MARM_ARMV5__;QT_CORE_LIB;" moduleId="configDataCache" sourcesCache="" timestampCache="1293156991171" useMmpMacrosCache="true"/>
+<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+<storageModule moduleId="org.eclipse.cdt.core.language.mapping"/>
+</cconfiguration>
+<cconfiguration id="Phone Release (GCCE) [S60_5th_Edition_SDK_v1.0]">
+<storageModule buildSystemId="com.nokia.carbide.cdt.builder.CarbideConfigurationDataProvider" id="Phone Release (GCCE) [S60_5th_Edition_SDK_v1.0]" moduleId="org.eclipse.cdt.core.settings" name="Phone Release (GCCE) [S60_5th_Edition_SDK_v1.0]">
+<externalSettings/>
+<extensions>
+<extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="com.nokia.cdt.debug.cw.symbian.SymbianE32" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MakeDefErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.SBSv2ErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.GCCEErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.CarbideMakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.RCOMPErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.Elf2E32ErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MakmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+</extensions>
+</storageModule>
+<storageModule moduleId="CarbideConfigurationDataProvider">
+<SIS_BUILDER_DATA_ID CREATESTUBSTORAGE="false" ENABLEDSTORAGE="true" PARTIALUPGRADESTORAGE="false" PKGFILESTORAGE="C:\QtMobility\examples\MusicsStreaming\MusicsStreaming_template.pkg" SIGNINGTYPESTORAGE="0"/>
+<ENV_VAR_DATA_ID/>
+<ARGUMENTS_DATA_ID ABLDFREEZEARGSSTORAGE="-r"/>
+<ROM_BUILDER_DATA_ID ROMBUILDWORKINGDIRECTORYSTORAGE="C:\"/>
+</storageModule>
+<storageModule filesCache="C:\QtMobility\examples\MusicsStreaming\MusicsStreaming_0xED758BFB.mmp;C:\QtMobility\examples\MusicsStreaming\bld.inf;" includesCache="C:/QT/4.6.2/include/QtCore;C:/QT/4.6.2/include/QtCore/tmp;C:/QT/4.6.2/include/QtNetwork;C:/QT/4.6.2/include/QtNetwork/tmp;C:/QT/4.6.2/include/QtGui;C:/QT/4.6.2/include/QtGui/tmp;C:/QT/4.6.2/include/QtXml;C:/QT/4.6.2/include/QtXml/tmp;C:/QT/4.6.2/include/phonon;C:/QT/4.6.2/include/phonon/tmp;C:/QT/4.6.2/include;C:/QT/4.6.2/include/tmp;C:/QtMobility/examples/MusicsStreaming;C:/QtMobility/examples/MusicsStreaming/tmp;C:/QT/4.6.2/mkspecs/common/symbian;C:/QT/4.6.2/mkspecs/common/symbian/tmp;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis/sys;C:/QtMobility/src/multimedia;C:/QtMobility/src/multimedia/tmp;C:/QtMobility/src/systeminfo;C:/QtMobility/src/systeminfo/tmp;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/middleware;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/domain/middleware;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/domain/middleware/loc;C:/S60/devices/S60_5th_Edition_SDK_v1.0/epoc32/include/stdapis/stlport;C:/QT/4.6.2/include/phonon_compat;C:/QT/4.6.2/include/phonon_compat/tmp;" macrosCache="__GENERIC_MARM__;__EXE__;__SYMBIAN32__;__SUPPORT_CPP_EXCEPTIONS__;__EPOC32__;QT_SOFTKEYS_ENABLED;__EABI__;QT_KEYPAD_NAVIGATION;UNICODE;QT_NETWORK_LIB;__GCCE__;QT_USE_MATH_H_FLOATS;NDEBUG;__MARM__;QT_XML_LIB;QT_PHONON_LIB;__S60_50__;QT_GUI_LIB;_UNICODE;__S60_3X__;__S60_5X__;__SERIES60_3X__;__MARM_ARMV5__;QT_CORE_LIB;" moduleId="configDataCache" sourcesCache="" timestampCache="1293156991218" useMmpMacrosCache="true"/>
+<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+<storageModule moduleId="org.eclipse.cdt.core.language.mapping"/>
+</cconfiguration>
+</storageModule>
+</cproject>

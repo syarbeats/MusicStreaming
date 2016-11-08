@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>images/screen.png</file>
+        <file>images/Satellite.png</file>
+        <file>images/dap_premium.png</file>
+        <file>images/ico_tutorial.png</file>
+        <file>images/windows_logo.png</file>
+        <file>images/CRT.png</file>
+        <file>images/image.png</file>
+        <file>images/logo.png</file>
+        <file>images/mouseman.png</file>
+        <file>images/Note_final.png</file>
+    </qresource>
+</RCC>
